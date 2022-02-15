@@ -1,0 +1,81 @@
+body {
+    background-color: #231942;
+    color: white;
+}
+
+header {
+    margin: 0 auto 0 auto;
+    width: 85%;
+    text-align: center;
+}
+
+#survey-form {
+    background-color: #5e548e;
+    width: 80vw;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 900px;
+    margin-bottom: 30px;
+}
+
+label {
+    display: block;
+    margin: 15px 0 5px 0;
+}
+
+input {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    -moz-appearance: textfield;
+    padding: 5px;
+}
+
+fieldset {
+    margin-top: 10px;
+    border-radius: 5px;
+    border-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+select {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+textarea {
+    resize: none;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    display: block;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+en {
+    font-size: 14px;
+    font-style: italic;
+}
+
+#recommendation {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
